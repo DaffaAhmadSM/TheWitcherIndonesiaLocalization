@@ -123,37 +123,37 @@
     579375|00000000||Black Bogdan.
     470650|00000000||May they rot in shallow graves, the whoresons! They've nicked another!
    1073063|00000000||Thank ye, witcher! Ye ought to come by Mulbrydale, see me forge. I'll have somethin' for ye. A gesture of gratitude.
-    574625|00000000||Better not.
-    574640|00000000||Better not. Vesemir said if it does, he'll make you eat a bowl of slugs. Covered in salt.
+    574625|00000000||Sebaiknya tidak.
+    574640|00000000||Sebaiknya tidak. Vesemir bilang kalau sampai itu terulang, dia akan membuatmu memakan semangkuk siput. Dilumuri garam.
     574641|00000000||Hahaha. Eeewwwww!
-    576732|00000000||Exactly. So you'd best behave.
-    576738|00000000||Of course. This a witcher school or an elven bathhouse?
-   1058679|00000000||Of course. [BEGIN TUTORIAL]
-   1058680|00000000||Not this time. [SKIP TUTORIAL]
-   1058682|00000000||Not this time. Believe me, you don't want to keep Vesemir waiting.
-    574642|00000000||Come on. We'll practice with the others down below.
-    576736|00000000||Shall we run the walls?
-    574633|00000000||Sorry's not good enough.
-    574635|00000000||You're gonna read "Ghouls and Alghouls" in its entirety. Appendices included.
-    574637|00000000||No, please… I'd rather clean the stables!
-    574639|00000000||End of discussion.
-    574619|00000000||Apology's not enough.
-    574605|00000000||You've got work to do. Your reflexes are still slow.
-    574607|00000000||Maybe for a witcher.
-    574609|00000000||Think drowners or strigas will go easy on you because you haven't undergone the mutations?
-    574610|00000000||Though in your shoes I'd fear Vesemir more than any striga. Disobeying his instructions… Unwise.
-    574614|00000000||Well, yes, but… that book was horribly dull!
-    574616|00000000||I know. And you know that's no excuse.
-    574618|00000000||Ugh. I'm sorry. It won't happen again.
-    546852|00000000||Wrong.
-    546854|00000000||Now I see why you were so eager to practice. Strike!
+    576732|00000000||Tepat sekali. Jadi jaga kelakuanmu.
+    576738|00000000||Tentu. Ini sekolah witcher atau pemandian elf?
+   1058679|00000000||Tentu saja. [MULAI TUTORIAL]
+   1058680|00000000||Tidak kali ini. [LEWATI TUTORIAL]
+   1058682|00000000||Jangan sekarang. Percayalah, kau tak ingin membuat Vesemir menunggu.
+    574642|00000000||Ayo. Kita akan berlatih dengan yang lain di halaman bawah.
+    576736|00000000||Haruskah kita balapan?
+    574633|00000000||Maaf saja tidak cukup.
+    574635|00000000||Kau akan membaca "Ghouls and Alghouls" secara keseluruhan. Termasuk bagian lampiran.
+    574637|00000000||Tidak, kumohon… Aku lebih memilih membersihkan kandang kuda!
+    574639|00000000||Diskusi selesai.
+    574619|00000000||Permintaan maaf saja tidak cukup.
+    574605|00000000||Kau punya PR. Refleksmu masih lamban.
+    574607|00000000||Mungkin untuk seorang witcher.
+    574609|00000000||Pikirmu drowner atau striga akan baik padamu karena kau belum bermutasi?
+    574610|00000000||Meski begitu kalau di posisimu aku akan lebih takut Vesemir daripada striga. Tak mematuhi perintahnya… Tidak bijaksana.
+    574614|00000000||Tetapi… buku itu sangat membosankan!
+    574616|00000000||Kau tahu itu bukan alasan.
+    574618|00000000||Ugh. Maaf. Tak akan kuulangi.
+    546852|00000000||Salah.
+    546854|00000000||Sekarang aku mengerti kenapa kau begitu bersemgangat untuk berlatih. Serang!
     576696|00000000||Ha!
-    576698|00000000||You're not in the circus. Pirouette!
-    546856|00000000||Wrong. Footwork!
-    576700|00000000||Enough. Get down.
-    546858|00000000||With a flip?
-    546860|00000000||What do you think?
-    576702|00000000||All right, take off the blindfold.
+    576698|00000000||Kau tidak sedang dalam sirkus. Berputar-putar!
+    546856|00000000||Salah. Gerakan kaki!
+    576700|00000000||Cukup. Turun.
+    546858|00000000||Dengan salto?
+    546860|00000000||Menurutmu?
+    576702|00000000||Lepas penutup matamu.
     312802|05e75e62||Harpy
     432580|00000000||Now - parrying. Ciri, see how Geralt holds his sword? Its angle?
     432582|00000000||Dodge!
@@ -164,7 +164,7 @@
     546721|00000000||Stop showing off, Geralt.
     577969|00000000||Riposte. Strike, counter-strike!
    1057722|00000000||Fine, enough. Continue training at will!
-   1058454|00000000||Draw your sword, Geralt.
+   1058454|00000000||Hunuskan pedangmu, Geralt.
    1058458|00000000||Now, young lady, to bring the day to a close, we'll go over a few witcher's Signs. Let's start with Quen.
    1058460|00000000||Cast Igni, Geralt. I wanna see sparks fly!
    1058462|00000000||Aard, Geralt! Come on!
@@ -179,28 +179,28 @@
    1075062|00000000||See? If not for the Quen Sign, I'd be aflame by now.
    1075060|00000000||See that, Ciri? Aard will knock anyone or anything off balance, destroy their rhythm.
     467274|40b3f5c5||Refugee
-    574124|00000000||We've spoiled her.
-    574263|00000000||Gotta admit we've spoiled her.
-    574265|00000000||"We've" spoiled her? I've been saying it from the start - Ciri needs a firm hand.
-    574267|00000000||Been saying that, true. But you let her walk all over you just like the rest of us do.
-   1044455|00000000||Hm. Fine, I suppose I'm partly to blame. But this has to end. Now.
-   1048566|00000000||Killing monsters is not something to be taken lightly. Ciri must understand that if she's to become one of us.
-    574270|00000000||I'll see you below.
-    574257|00000000||Don't get mad at her.
-    574259|00000000||Why the hell not? The whippersnapper refuses to do as she's told.
-    574261|00000000||You like that about her.
-    574117|00000000||Don't get mad at her.
-    578211|00000000||Old witcher's fast asleep… Ciri's disappeared somewhere, of course.
-    573920|00000000||Guess she prefers practice to theory…
-    574106|00000000||Hm? What?
-    573954|00000000||Time to wake up, master.
-    573935|00000000||These lessons so boring they put you to sleep, too?
-    573936|00000000||Dammit… Had her taking notes on "Ghouls and Alghouls"… Wanted to rest my eyes a bit.
-    574098|00000000||Huh. Making her slog through that brick? No wonder she took off.
-    574100|00000000||John of Brugge lacks flair, true, but he's reliable. Not like the hogwash they print nowadays.
-    574126|00000000||She's tackling the pendulums, right?
-    574102|00000000||How many times do I have to tell her? Don't train alone, it only embeds your errors.
-    574104|00000000||Bring our young damsel to the lower courtyard. She wants to practice? She'll get to practice.
+    574124|00000000||Kita sudah memanjakannya.
+    574263|00000000||Harus mengakui kita sudah memanjakannya.
+    574265|00000000||"Kita" sudah memanjakannya? Aku sudah mengatakannya dari awal - Ciri butuh orang yang tegas.
+    574267|00000000||Sudah mengatakannya, benar. Tetapi kau membiarkannya seperti yang kami lakukan.
+   1044455|00000000||Hm. Baiklah, Kupikir aku juga pantas disalahkan. Tetapi ini harus berakhir. Sekarang.
+   1048566|00000000||Membunuh monster bukanlah hal yang bisa dianggap remeh. Ciri harus mengerti itu kalau menjadi salah satu dari kita.
+    574270|00000000||Sampai ketemu di halaman bawah.
+    574257|00000000||Jangan marah padanya.
+    574259|00000000||Kenapa tidak? Dia enggan melakukan apa yang diperintahkan.
+    574261|00000000||Itu yang kau suka dari dia.
+    574117|00000000||Jangan marah padanya.
+    578211|00000000||Witcher tua tertidur nyenyak… Ciri menghilang entah ke mana, tentu saja.
+    573920|00000000||Kupikir dia lebih suka praktik daripada teori…
+    574106|00000000||Hm? Apa?
+    573954|00000000||Waktunya bangun, master.
+    573935|00000000||Pelajaran-pelajarannya sangat membosankan hingga membuatmu tertidur juga?
+    573936|00000000||Menyuruhnya mencatat tentang "Ghouls and Alghouls"… Ingin mengistirahatkan mataku sejenak.
+    574098|00000000||Huh. Membuatnya bekerja keras dengan buku-buku itu? Gak heran dia pergi.
+    574100|00000000||John of Brugge kurang berbakat, benar, tetapi dia bisa dipercaya. Tidak seperti omong kosong yang mereka tulis saat ini.
+    574126|00000000||Dia berlatih dengan pendulum, 'kan?
+    574102|00000000||Berapa kali aku harus memberi tahunya? Jangan berlatih seorang diri, itu hanya menyematkan kesalahan-kesalahanmu.
+    574104|00000000||Bawa gadis muda kita ke halaman bawah. Dia ingin berlatih? Dia akan mendapatkannya.
     478419|00000000||Where's you goin'? That's a place o' culture, not a trough for swine to trudge to…
     478437|00000000||Door on the left.
    1064835|00000000||This where Madame Irina's troupe performs?
@@ -247,20 +247,20 @@
     516508|b0678eeb||Horse
     578399|00000000||Isn't there something you ought to be doing?
     578620|00000000||Not now. Ciri awaits.
-   1071630|00000000||You're right. I should go see Ciri.
-   1071640|00000000||Ahh, yeah. Better go see Ciri.
-   1071629|00000000||Let's be unreasonable.
-   1071632|00000000||I don't wanna be reasonable.
-   1071634|00000000||Aha! So that's the way the wind blows…
-   1071642|00000000||Go and train with her. Then come back. It'll give me a chance to put my face on.
-   1071644|00000000||Of all the women I've known, you're the only one who does that before…
-   1071646|00000000||You've known many?
-   1071648|00000000||What's it matter? Only ever thought of you…
-   1071636|00000000||I missed you. A lot.
-   1071638|00000000||And I missed you. But we'll have plenty of time to make up for that.
-   1071628|00000000||Wanna stay with you a little longer.
-   1071433|00000000||See, I thought Ciri could stand to wait a little longer.
-   1071435|00000000||It's uninstructive. Not to mention unreasonable.
+   1071630|00000000||Kau benar. Aku harus menemui Ciri.
+   1071640|00000000||Ahh, yeah. Sebaiknya aku menemui Ciri.
+   1071629|00000000||Mari sedikit nakal.
+   1071632|00000000||Mari sedikit nakal.
+   1071634|00000000||Aha! Jadi begitulah angin bertiup…
+   1071642|00000000||Pergi dan berlatihlah dengannya. Lalu kembali. Itu akan memberiku waktu untuk berdandan.
+   1071644|00000000||Dari semua wanita yang kukenal, hanya kau satu-satunya yang melakukan itu…
+   1071646|00000000||Kau kenal banyak wanita?
+   1071648|00000000||Apa itu penting? Hanya kau seorang yang kupikirkan…
+   1071636|00000000||Aku sangat merindukanmu.
+   1071638|00000000||Aku juga. Tetapi kita akan punya banyak waktu untuk itu.
+   1071628|00000000||Ingin bersamamu sedikit lebih lama.
+   1071433|00000000||Dengar, kurasa Ciri bisa menunggu sedikit lebih lama.
+   1071435|00000000||Itu gak baik. Keterlaluan.
     572370|00018392||Earth Elemental
     515498|00307f1b||Goat
    1041861|4fe30dd7||Gravedigger
@@ -268,13 +268,13 @@
    1031427|775f49f7||Shepherd
    1055653|31c17949||Raven
     591090|00000000||Bird skull… in black crystal. Why do I think this is Yen's?
-    577144|00000000||You know I don't find that amusing.
-    577145|00000000||It wasn't meant to amuse, but to prod you to hurry. It's midday already.
+    577144|00000000||Kau tau itu gak lucu.
+    577145|00000000||Itu memang bukan lelucon, tetapi untuk membuatmu bergegas. Ini sudah tengah hari.
    1059264|00000000||Pfff…
-   1059266|00000000||You promised Ciri you'd train with her.
-    577169|00000000||Go, before Vesemir bores her to death with those etchings.
-    577154|00000000||So… later, then?
-    577155|00000000||Mmh. See you later.
+   1059266|00000000||Kau berjanji dengan Ciri akan berlatih dengannya.
+    577169|00000000||Pergilah, sebelum Vesemir membuatnya bosan dengan buku-buku itu.
+    577154|00000000||Jadi… sampai nanti?
+    577155|00000000||Mmh. Sampai jumpa.
     595891|fbee3e23||Peasant
     175619|ea15b01b||Innkeep
     515166|00000000||Oh, got a signal…
@@ -401,44 +401,44 @@
     577749|00000000||Position, Ciri! Footwork! Remember!
     577743|00000000||What am I supposed to parry? I'm fighting a stupid dummy!
     577745|00000000||Pretend now, live later!
-    574766|00000000||What did I tell you about breathing? Through your mouth, in rhythm with your steps.
+    574766|00000000||Apa yang kukatakan tentang pernapasan? Melalui mulutmu, seirama dengan langkah-langkahmu.
     577080|00000000||Huhhhh… Huhhhh… Huhhh…
-    577082|00000000||Ciri. Cut it out.
-    577084|00000000||Oh no… Vesemir's got that look.
-    577086|00000000||What'd you expect?
-   1056855|00000000||Geralt, what is it? Come on!
-   1059615|00000000||Run into trouble? Should I turn back and help you?!
-   1059617|00000000||First! Hehe. Na-na-na-na-naaa!
-   1059619|00000000||I win.
-   1059621|00000000||Your legs are longer! I'll show you yet - just need to grow a bit!
-   1059611|00000000||Hey! You said we weren't allowed to do that!
-   1059613|00000000||I said you weren't allowed to do it.
-    574750|00000000||Beat you to the bottom!
-    577077|00000000||Hah. Maybe if you fall.
-   1028700|00000000||Don't bother me, Geralt! I'll trip and fall!
+    577082|00000000||Ciri. Hentikan itu.
+    577084|00000000||Oh tidak… Raut muka Vesemir begitu.
+    577086|00000000||Apa yang kau harapkan?
+   1056855|00000000||Geralt, apa ini? Ayolah!
+   1059615|00000000||Kau dalam masalah? Haruskah aku kembali dan membantumu?!
+   1059617|00000000||Pertama! Hehe. Na-na-na-na-naaa!
+   1059619|00000000||Aku menang.
+   1059621|00000000||Kakimu lebih panjang! Akan kutunjukkan kepadamu - hanya perlu tumbuh sedikit!
+   1059611|00000000||Hey! Kau bilang kita gak boleh melakukan itu!
+   1059613|00000000||Aku bilang kau yang gak boleh melakukan itu.
+    574750|00000000||Aku akan sampai duluan ke halaman bawah!
+    577077|00000000||Hah. Mungkin kalau kau terjatuh.
+   1028700|00000000||Jangan ganggu aku, Geralt! Aku akan tersandung dan jatuh!
     346241|fd7deb62||Adventurer
-    576828|00000000||Could've said you did the exercise while Vesemir was asleep.
-    576840|00000000||So you did the reading. Why not admit it right off?
-    576841|00000000||"Never pounce on an advantage as soon as it appears. Wait till it stands to have maximum effect." Uncle Vesemir's words.
-    576842|00000000||Well, you're a quick study. Quick, but mischievous.
-   1058686|00000000||Should work on the basics. Even skilled masters need to hone the fundamentals… and Ciri's barely a novice.
-   1058683|00000000||Let's start with the fundamentals. [BEGIN COMBAT TUTORIAL]
-   1058684|00000000||Let's go straight to free training. [SKIP TUTORIAL]
-   1058688|00000000||Let's skip straight to free training. No point going over the basics again.
-    576835|00000000||Fine, we've talked enough. Geralt, you're with me. Lambert with Eskel. Ciri with the dummy.
-    576837|00000000||Huh… Again?
-    576838|00000000||Stop groaning and grab a sword!
-   1058717|00000000||What do you think - should we start by reviewing the fundamentals, or go right to free training?
-    576830|00000000||Don't try to weasel your way out of this.
-    577037|00000000||"A witcher must know how to trick his opponent." You said so yourself.
-    577039|00000000||Might've. But don't use my words of wisdom on Vesemir, got it? That's playing with fire.
-    576819|00000000||Won't weasel out of this.
-    573553|00000000||Anything to say for yourself, young lady?
-    573554|00000000||I'm very sorry, Uncle Vesemir.
-   1044494|00000000||Young blood craves action, I understand that. But when you fight a beast, knowledge counts as much as your silver sword. At the very least, you ought to be able to tell a ghoul from an alghoul…
-    573556|00000000||…"by markings, like unto the panthera tigris that in Zerrikania dwells, and by the sickly paleness of its visage."
-    573557|00000000||Hmm. So you did read the chapter. Still, you should've asked if…
-    576818|00000000||But you were asleep, Uncle Vesemir.
+    576828|00000000||Kau bisa mengatakan sudah membacanya selagi Vesemir tertidur.
+    576840|00000000||Jadi kau sudah membacanya. Kenapa gak langsung mengakuinya?
+    576841|00000000||"Jangan pernah menerkam keuntungan begitu itu muncul. Tunggulah sampai efek maksimal." Kata-kata Paman Vesemir.
+    576842|00000000||Kau belajar dengan cepat. Cepat, tetapi nakal.
+   1058686|00000000||Mulai dari dasar-dasar. Bahkan master yang ahli pun perlu mengasah dasar-dasar… dan Ciri masih pemula.
+   1058683|00000000||Mari mulai dari dasar-dasar. [MULAI TUTORIAL TEMPUR]
+   1058684|00000000||Mari langsung ke latihan bebas. [LEWATI TUTORIAL]
+   1058688|00000000||Mari kita langsung ke latihan bebas. Tidak ada gunanya kembali ke dasar-dasar.
+    576835|00000000||Baiklah, cukup bicaranya. Geralt, kau denganku. Lambert dengan Eskel. Ciri dengan boneka kayu.
+    576837|00000000||Huh… Lagi?
+    576838|00000000||Berhenti mengeluh dan ambil pedangmu!
+   1058717|00000000||Bagaimana menurutmu - haruskah kita mulai dengan meninjau dasar-dasar, atau langsung ke latihan bebas?
+    576830|00000000||Jangan mencoba mengelak dari hal ini.
+    577037|00000000||"Seorang witcher harus tahu cara mengelabui lawannya." Kau sendiri yang mengatakannya.
+    577039|00000000||Benar. Tetapi jangan gunakan kata-kata bijakku pada Vesemir, mengerti? Itu berbahaya.
+    576819|00000000||Jangan mencoba mengelak dari hal ini.
+    573553|00000000||Ada yang ingin kau sampaikan sendiri, gadis muda?
+    573554|00000000||Maafkan aku, Paman Vesemir.
+   1044494|00000000||Jiwa anak muda sangat berapi-api, aku mengerti itu. Tetapi ketika melawan beast, pengetahuan sama pentingnya dengan silver sword-mu. Setidaknya, kau harus bisa membedakan ghoul dengan alghoul…
+    573556|00000000||…"dari ciri-cirinya, seperti ciri pada panthera tigris yang mendiami Zerrikania, dan ciri pucat sakit pada muka."
+    573557|00000000||Hmm. Jadi kau sudah membaca bagian itu. Tetap saja, kau seharusnya bertanya apakah…
+    576818|00000000||Tetapi kau tertidur, Paman Vesemir.
    1050632|002efcee||Deer
     468514|00000000||This basilisk is interesting because it looks exactly like a wyvern. Young one, and ill-fed at that.
     468516|00000000||You talk nonsense, sir. This here's the most truest of basilisks!
@@ -495,19 +495,19 @@
     479155|00000000||Eh, witcher? What is it?
    1064995|00000000||So many corpses… And the war's just started.
    1064997|00000000||Scar's healed nicely.
-   1064993|00000000||Shit - mountain pass is beautiful as ever.
+   1064993|00000000||Puncak gunung indah seperti biasanya.
     579470|00000000||Nice, nice. You seem to know horses as well as you do monsters. Here's your gold… And if the urge to race again grabs you, come see me.
     579472|00000000||Unearthly witcher senses - they prattle on about them. Yet you just got outrun by a common grunt. Lost your gold… but get some more, and I'll arrange a rematch.
    1032203|00000000||Felt like takin' a shortcut, clever boy? We don't tolerate none of that shite. You left the course, you lose your gold. Gotta win it back if you wanna see it again. You gotta race… honest this time.
    1055682|b224b6d2||Devourer
-   1056946|00000000||Lilac and gooseberries, of course.
-   1058292|00000000||Geralt, stop fingering my toiletries.
-   1056954|00000000||You're running out of juice.
-   1058286|00000000||I know. You might bring me some more once you're done training.
-   1056956|00000000||Got any clothes that aren't black or white?
-   1058288|00000000||Mhm. Undergarments.
-   1056944|00000000||Nothing but silver…
-   1058285|00000000||Gold clashes with my complexion. You should know that.
+   1056946|00000000||Lilac dan gooseberries, tentu saja.
+   1058292|00000000||Geralt, berhenti memainkan perlengkapan mandiku.
+   1056954|00000000||Kau kehabisan minuman jus.
+   1058286|00000000||Kau mungkin mau membawakannya lagi setelah selesai berlatih.
+   1056956|00000000||Punya pakaian lain selain warna hitam atau putih?
+   1058288|00000000||Mhm. Pakaian dalam.
+   1056944|00000000||Tak ada yang lain selain perak…
+   1058285|00000000||Emas gak cocok dengan gayaku. Kau harusnya tahu itu.
    1031654|00000000||The old signal tower. It'll be nothing but a pile of rubble soon.
     583134|141198a8||Novigrad Guard
    1055407|06ae3071||Helma
