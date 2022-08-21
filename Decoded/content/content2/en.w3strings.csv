@@ -145,7 +145,7 @@
     548515|00000000||Ayo.
     548509|00000000||Pemilik penginapan adalah sepupuku. Beri tahunya Bram mengirimmu, dia akan memperlakukanmu seperti keluarga.
     548547|00000000||Ada sebuah penginapan di White Orchard. Satu-satunya di sekitar sini. Tempat singgah orang-orang, mungkin kau akan mendapatkan informasi di situ.
-    548539|00000000||Iya, seorang wanita, tinggi badan sedang, berambut hitam panjang. Pernah lihat orang dengan ciri begitu?
+    548539|00000000||Iya, seorang wanita, tinggi badan sedang, berambut hitam panjang. Pernah melihat orang dengan ciri begitu?
     548541|00000000||Tidak. Tetapi…
     548516|00000000||Iya - seorang wanita.
     548503|00000000||Kita lanjut jalan?
@@ -210,22 +210,22 @@
    1012750|00000000||The plague.
    1012748|00000000||Lout.
     576822|00000000||Not in the mood.
-    576867|00000000||Don't generally drink with strangers.
     576868|00000000||Come. I know this to be a vile place. You might down a little glass merely to aid digestion.
+    576867|00000000||Aku tidak biasa minum dengan orang asing.
     576878|00000000||Let's get to the point.
     576887|00000000||Finding her - that'll lift my spirits.
     576888|00000000||You look haggard. It's just a few drops to improve your mood. A little schnappsie's never hurt a soul.
-    577342|00000000||You seen Yennefer?
-    577343|00000000||Deepest apologies, but I must ask: Is this about love?
-    577757|00000000||Of course it's about love.
+    577342|00000000||Kau melihat Yennefer?
+    577343|00000000||Maaf sebelumnya, tetapi aku mesti bertanya: Apakah ini karena cinta?
+    577757|00000000||Tentu saja ini karena cinta.
     577770|00000000||Guessed it. It's love.
-    577786|00000000||I knew it at once.
-    577841|00000000||What do you know? Tell me.
-    577843|00000000||Before you appeared, it never occurred to me that might've been Yennefer. Who would've have thought…
-    577844|00000000||Get to the point.
     577846|00000000||A Nilfgaardian scout from the local garrison saw her.
-    577853|00000000||Where?
     577854|00000000||At their camp. She rode in there - dark of night, black and white, gooseberries and… yes, I know. Had a terse exchange with the garrison commander and raced off.
+    577786|00000000||Sudah kuduga.
+    577841|00000000||Apa yang kau ketahui? Katakan.
+    577843|00000000||Sebelum kau datang, tak pernah terpikir olehku bahwa itu mungkin Yennefer. Siapa sangka…
+    577844|00000000||Langsung ke intinya.
+    577853|00000000||Di mana?
     577848|00000000||Where to?
     577850|00000000||I'm not omniscient. Ask at the garrison.
     580188|00000000||Thanks.
@@ -249,15 +249,15 @@
     577051|00000000||Into Geralt of Rivia himself. The Butcher of Blaviken.
     576869|00000000||Can we cut to the chase? You seen her or not?
     576870|00000000||Yennefer of Vengerberg?
-    576920|00000000||Never mentioned her name.
-    576921|00000000||Yet you described her perfectly. And once I hear something, I never forget. Can't help it.
-    576865|00000000||Fine, I'll have a drink.
-    576821|00000000||Fine, I'll have a drink.
+    576920|00000000||Aku tidak pernah menyebut namanya.
+    576921|00000000||Kau mendeskripsikannya dengan sempurna. Dan sekali aku dengar sesuatu, aku tak pernah lupa. Pasti.
+    576865|00000000||Baiklah, aku akan minum.
+    576821|00000000||Baiklah, aku akan minum.
     576785|00000000||Mencari seorang wanita.
-    576788|00000000||Ahh, like everyone.
-    576812|00000000||Not like everyone, and not just any woman. Mine smells of lilac and gooseberries, dresses in black and white.
-    576814|00000000||Two schnappses!
-    576823|00000000||Hah. It'll lift your spirits.
+    576788|00000000||Ahh, seperti semua orang.
+    576812|00000000||Tidak, dan ini bukan sembarang wanita. Wanginya lilac dan gooseberries, berpakaian hitam dan putih.
+    576814|00000000||Dua schnapps!
+    576823|00000000||Hah. Itu akan meningkatkan semangat.
     577768|00000000||Yennefer's in danger.
     577817|00000000||Oh, the devilry! Why didn't you say so?! We must act.
     571825|00000000||Huh?
@@ -678,25 +678,24 @@
     344176|00000000||Sudah bosan hidup?
     344178|00000000||Aku mencari pengetahuan, yang mana kuhargai melebihi hidup itu sendiri. Aku punya rasa haus yang tidak bisa terpuaskan oleh buku-buku tua berdebu.
     558259|00000000||Aku ingin melihat invasi Nilfgaardian mata kepalaku sendiri, memahaminya, dan mencatat semuanya dalam kronikku, magnum opus-ku.
-    344190|00000000||Dengarkan saranku - kembalilah ke buku-bukumu selagi kau bisa. Perang bukanlah permainan.
     572912|00000000||Tidak ada pertemuan fakultas untuk dihadiri, tidak ada gelar untuk diraih, catatan akhir untuk disusun. Prajurit pertama yang kaulihat akan membunuhmu.
     344192|00000000||Mengapa mereka akan melakukan itu? Aku, seorang warga sipil yang netral, seorang cendekiawan…
     344194|00000000||Sepatu bot.
-    344202|00000000||Ah, I see you lack the polish of the academy.
     344196|00000000||Eh, gimana?
     344198|00000000||Dia akan membunuhmu untuk sepatu botmu.
-    344186|00000000||Kembalilah ke buku-bukumu, selagi kau bisa.
+    344186|00000000||Kembalilah, selagi kau bisa.
     344188|00000000||Menulis tentang perang - seperti apa perang sebenarnya.
     344200|00000000||Menarik. Kita butuh seseorang untuk menggambarkan perang - seperti apa perang sebenarnya. Bukan sorak-sorai dengan panji-panji dan pidato para jenderal yang mengharukan, tetapi pemerkosaan, kekerasan, dan kekejaman tanpa berpikir.
+    344202|00000000||Ah, tampaknya kemampuan akademikmu kurang baik.
     558261|00000000||Pemerkosaan dan kekejaman dianggap sebagai detail yang tidak penting dalam jalannya perang. Bisa dibilang, hiasan konflik.
     344204|00000000||Hm. Katakan itu kepada orang-orang yang rumahnya terbakar.
     576337|00000000||Membuang-buang waktu. Bumi akan berputar mengelilingi matahari sebelum kau memahami aturan-aturan ini.
     344119|00000000||Kau punya waktu?
     344121|00000000||Mengapa tidak. Aldert Geert, asisten profesor contemporary history di Oxenfurt Academy.
     351885|00000000||Geralt of Rivia. Seorang witcher.
-    576340|00000000||Aku mencari seorang wanita - berambut panjang, berpakaian hitam dan putih. Pernah lihat orang dengan ciri begitu?
     482402|00000000||Enchanted.
     344208|00000000||Ah, you return! Shall I deal?
+    576340|00000000||Aku mencari seorang wanita - berambut panjang, berpakaian hitam dan putih. Pernah melihat orang dengan ciri begitu?
     576342|00000000||Tentu saja tidak. Tidak seperti kebanyakan orang, aku tahu bahwa Horsewoman of War hanyalah omong kosong belaka.
     576344|00000000||Sekali lagi. Terdapat empat factions--
     576346|00000000||Empat apa?
@@ -1562,7 +1561,7 @@
     166040|00000000||Enyahlah, aneh, sebelum napasmu membuat birku tidak enak.
     351879|00000000||Running low on patience. Once it's gone, your heads'll roll.
     351881|00000000||Oh, we was jestin', no call for anger…
-    351883|00000000||Pernah lihat seorang wanita berambut hitam di sekitar sini? Berpakaian hitam dan putih?
+    351883|00000000||Pernah melihat seorang wanita berambut hitam di sekitar sini? Berpakaian hitam dan putih?
     548756|00000000||Kami tidak tahu apa-apa, tuan. Tinggalkan kami.
     351875|00000000||Patience is running thin.
     166042|00000000||Bicara. Sekarang.
@@ -1574,8 +1573,8 @@
     167525|00000000||Uh-huh. Dan akan kucabut lidahmu kalau tidak diam.
     351877|00000000||Jawab pertanyaanku. Sekarang.
     166046|00000000||Hanya ingin bertanya.
-    166048|00000000||Ye deaf, stray? No one here'll talk to ye.
     572903|00000000||If it's company you seek, stick that mangy snout of yours in a trough with the pigs.
+    166048|00000000||Kau tuli, aneh? Tak seorang pun di sini yang mau bicara denganmu.
     167513|00000000||Heheheh! Showed that shiteater, Mikah!
     166044|00000000||Aku hanya ingin bertanya.
     351608|00000000||Buang-buang waktu. Tidak punya waktu untuk orang sepertimu.
