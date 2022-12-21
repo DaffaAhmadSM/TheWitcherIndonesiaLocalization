@@ -1372,14 +1372,26 @@
    1103813|00000000||A witcher with aesthetic sensibility? Forgive my disbelief.
    1103807|00000000||Just catering to your love of the arts.
     458127|b5155b65||Guard
-   1134818|1b478f29||Iris von Everec's remains
+   1118768|3fc10332||Key to sewer gates
    1082374|858ee592||Item needed to complete a quest.
+   1136540|f21a7b5b||Redanian Army orders
+   1071244|256561ab||Read for additional information.
+   1136541|d2f46391||Order 15-48E/246, issued by Albrecht Hockenhole<br><br>Captain Vern Pallack and his unit shall enter the Oxenfurt sewers, where they shall escort Field Medic Shani on her mission to gather a sample of the venom spewed by the creature which dwells there and has been poisoning our water supply. If possible, they are ordered to kill said creature(s).
+   1121674|7e7fe7a1||Ofieri crossbow
+   1046136|7a015bfe||Light ranged weapon.
+   1119663|e6c005fa||Taxpayer in Good Standing Diploma
+   1119669|8987a452||[[CSV_EXPORT_PIPE]]==== TAXPAYER IN GOOD STANDING DIPLOMA ====[[CSV_EXPORT_PIPE]]<br><br>In recognition of his manifold virtues, the Revenue and Customs for Occupied Temeria, Dorian branch, awards the<br><br>Taxpayer in Good Standing<br><br>to Geralt of Rivia, a witcher of the Wolf Guild<br><br>Honestas ante Pecunia!
+   1128760|c958f178||Love letter
+   1128761|5fcc3794||[Annotation: item acquired with the rest of the von E. estate. Put up for auction, starting price: one crown. No bids.]<br><br>My love,<br><br>Don’t give up. There’s still a week till you’re to wed the Ofieri. I’ll think of something. Perhaps I’ll get the coin by then, perhaps my tears will convince your father, perhaps the gods will hear our prayers – or if not they, perhaps some devil will. If nothing else helps, I’ll crash into the temple through the window and swoop you up from the altar. We’ll flee somewhere far, far away, to the edge of the world, where no one will find us.<br><br>You write of sadness. I feel its weight, too. I think of you constantly. Of how we sat at the Alchemy till dawn nursing a bottle of wine, and you traced our dream house in the sawdust on the floor. Of how we dangled our feet in the water from the dock and you sang those bawdy songs and made me laugh and laugh. I kiss the medallion carrying your portrait before I fall asleep and as soon as I wake.<br><br>I swear on all that is holy: we shall be together forever. Be brave.<br><br>I Love You!<br>-Your O.
+   1136698|6573ae73||Count Romilly's figurine
+   1126754|dcaa2f30||"Starry Night Over the Pontar"
+   1126755|5c7b8136||Landscape painted by Van Rogh.
+   1126706|21b3dbde||The Professor's spectacles
+   1126707|739df764||Spectacles once belonging to the Professor, an assassin for hire.
    1137513|bac8fa13||Pyerog runestone
    1137514|8399113d||Rune. Place in an empty socket on a sword. Goes wonderfully with the Tvarog runestone.
    1137515|2504c7a6||Tvarog runestone
    1137516|128dc78a||Rune. Place in an empty socket on a sword. Goes wonderfully with the Pyerog runestone.
-   1126599|a5b18d24||Censer
-   1126602|ab99382a||Used to spread incense during religious ceremonies and rituals.
    1137535|b286a17b||Lesser Glyph of Binding
    1082264|3c2468bf||Upgrade. Place in an empty socket on a piece of equipment to improve its traits.
    1137537|dc3f1c6a||Glyph of Binding
@@ -1393,78 +1405,10 @@
    1137529|e4668cfa||Lesser Glyph of Warding
    1137531|25b391cb||Glyph of Warding
    1137533|b54da986||Greater Glyph of Warding
-   1126446|7b13f5e3||Von Everec blood
-    593514|7c80c0a0||Weak shield
-   1127744|d9fe367f||Crypt key
-   1121670|33db54cf||Ofieri kilij
-   1083687|0cd9e187||Steel sword. Used when fighting humans.
-   1130169|65acf151||Ofieri stock saddle
-   1082359|fc5e14ab||A horse equipped with a saddle won't tire as easily.
-   1121668|9d1ce391||Ofieri saddlebags
-   1082351|474bf324||Saddlebags allow you to carry more weight.
-   1121667|0733ba6f||Ofieri blinders
-   1082358|1f2ac3de||A horse equipped with blinders won't panic as easily.
-   1133979|150b97f8||Bottomless carafe
-   1133980|cc194db2||Provides an endless supply of hard alcohol. The spirit is distilled from scorpion tails.
-   1133982|633c40f7||Horn of Plenty
-   1133981|efd01d31||Provides an endless supply of food. The horn of plenty seems alive and pulses while producing food.
-   1137038|1f9109ad||Order of the Flaming Rose sword
-   1130941|65fff3d0||Ornate robe
-   1130948|acf09530||Noble attire.
-   1135574|d7c35e92||Ornate boots
-   1086353|320650a7||Medium-weight gear. Increases Armor.
-   1107645|e291c953||Lost shoe
-   1107644|013c3340||Lost shoe
-   1107643|013c333f||Lost shoe
-   1123954|0bc2c970||Ass ears
-   1137058|692b43d2||Fence board
-   1135578|196f8b1c||King of Swineherd's crown
-   1082377|80754472||Strap trophies to your saddle to receive a bonus.
-   1107642|c93b8542||Fire swallower's cap
-   1048420|b3185d53||Bolts
-   1048421|b9000859||Standard crossbow bolt.
-   1140031|1346ea45||New Moon armor
-   1121672|0dc7103b||Ofieri tunic
-   1086352|736e017e||Light gear. Increases Armor and Stamina regeneration.
-   1130052|19ad7f57||Order of the Flaming Rose armor
-   1086354|942892ef||Heavy gear. Increases Armor and decreases Stamina regeneration.
-   1126410|8ee4baf2||Formula: Cleansing mixture
-   1082262|fef56424||Formula for brewing a witcher potion.
-   1123913|1c4b8083||Contract: Monster in the Sewers
-   1058789|7610151a||Notice found on a notice board.
-   1123914|2be05769||Let it be known that Olgierd von Everec shall pay a generous reward in gold, jewels and movable goods (subject to negotiation) to any man who descends into the Oxenfurt sewers and kills the beast which has infested them and taken to murdering the innocent, with an especial predilection for young maids. The task is best suited for a battle-hardened individual, a soldier or possibly a witcher, who will not run at the sight of drowners, for the sewers are chock full of such nuisances.<br><br>For more information, inquire at the Garin Estate (to the northeast of Novigrad).<br><br>Ask for Olgierd von Everec.
-   1121665|7c2aad78||Iris
-   1121666|a6d3aefe||Saber once belonging to Olgierd von Everec.
-   1118768|3fc10332||Key to sewer gates
-   1136540|f21a7b5b||Redanian Army orders
-   1071244|256561ab||Read for additional information.
-   1136541|d2f46391||Order 15-48E/246, issued by Albrecht Hockenhole<br><br>Captain Vern Pallack and his unit shall enter the Oxenfurt sewers, where they shall escort Field Medic Shani on her mission to gather a sample of the venom spewed by the creature which dwells there and has been poisoning our water supply. If possible, they are ordered to kill said creature(s).
-   1121671|33db54d0||Ofieri decorated saber
-   1130055|25ebf422||Order of the Flaming Rose gauntlets
-   1121648|a74e8688||Ofieri scale armor
-   1121646|a847a831||Ofieri boots
-   1121649|4c6bd311||Ofieri gauntlets
-   1121647|a81a3125||Ofieri sharovary
-   1121664|2d12e01c||Ofieri saber
-   1130067|a380bc61||Sarrim
-   1082376|a2b4930d||Silver sword. For fighting monsters.
-   1137177|6e703aa0||Viper armor
-   1141668|6e7cfd22||Viper boots
-   1141670|6980a1f9||Viper gauntlets
-   1141672|6f3be53d||Viper trousers
-   1137179|52d1d757||Viper venomous steel sword
-   1137186|1bbb573d||Viper venomous silver sword
-   1122760|91cd8745||King Foltest mask
-   1122761|556e55cb||The likeness of the murdered king of Temeria, Foltest.
-   1128760|c958f178||Love letter
-   1128761|5fcc3794||[Annotation: item acquired with the rest of the von E. estate. Put up for auction, starting price: one crown. No bids.]<br><br>My love,<br><br>Don’t give up. There’s still a week till you’re to wed the Ofieri. I’ll think of something. Perhaps I’ll get the coin by then, perhaps my tears will convince your father, perhaps the gods will hear our prayers – or if not they, perhaps some devil will. If nothing else helps, I’ll crash into the temple through the window and swoop you up from the altar. We’ll flee somewhere far, far away, to the edge of the world, where no one will find us.<br><br>You write of sadness. I feel its weight, too. I think of you constantly. Of how we sat at the Alchemy till dawn nursing a bottle of wine, and you traced our dream house in the sawdust on the floor. Of how we dangled our feet in the water from the dock and you sang those bawdy songs and made me laugh and laugh. I kiss the medallion carrying your portrait before I fall asleep and as soon as I wake.<br><br>I swear on all that is holy: we shall be together forever. Be brave.<br><br>I Love You!<br>-Your O.
-   1136698|6573ae73||Count Romilly's figurine
-   1126754|dcaa2f30||"Starry Night Over the Pontar"
-   1126755|5c7b8136||Landscape painted by Van Rogh.
-   1126706|21b3dbde||The Professor's spectacles
-   1126707|739df764||Spectacles once belonging to the Professor, an assassin for hire.
    1134251|d3657731||Vlodimir's letter to Olgierd
    1134252|ed7b5d7b||Olgierd, my damned dear brother!<br>You've no idea what joy you brought me with that idea of showing me a good time. True, the man you sent's as fitting company for a lark as a hoe handle, but never mind that…  What matters is I enjoyed myself. And how! It was a cracking good wedding, with vodka flowing in streams and plenty of pretty things to rest the eye on.<br><br>I miss you, but take your time coming to join me. Live and enjoy life.<br><br>Your brother Vlod
+   1122760|91cd8745||King Foltest mask
+   1122761|556e55cb||The likeness of the murdered king of Temeria, Foltest.
    1113464|a0ab5592||Mead
    1071236|a451bb11||Used in alchemy.
    1113463|021b304e||Rowanberry brandy
@@ -1479,17 +1423,14 @@
    1114280|d515833a||Incrusted key
    1114281|cd9c6677||Bloody letter
    1114282|32b509f5||Field Agent XIIE32, alias Beanpole, executing order 122245 according to procedure 46D. To be delivered personally to the commander of Intelligence Cell Cardinal.<br><br>The renegade knights’ trail leads to the Novigrad region. They took control of a nearby fisstech manufactory upon arrival. Possibly this is what brought them to the region (?).<br><br>Have occupied prime observation position. Drop box has been prepared. In case of unforeseen complications, the agent sent to track us down will find it in the pond visible from the observation tower near the village of Mohrin.<br><br>Regarding the knights – here a big risk might reap big rewards: we suggest offering them imperial gold for their services. With Radovid having dispersed their order, the knights prowl the land like common bandits, scavenging for their upkeep. And they now hate HRM Radovid with a violent passion. They'd gladly take our coin and even more gladly destabilize the Redanian army's rear guard. This they'd do far better than any partisans. Worth considering. <br><br>Agent Shinetop is still out on his mission. No word from him for several days. Waiting for further instructions. [postscript written in blood] Wait in hell, Nilfgaardian whore! And you’re next, Agent Shinetop!
-   1121674|7e7fe7a1||Ofieri crossbow
-   1046136|7a015bfe||Light ranged weapon.
    1126468|77a16415||Knut Kreutzman's journal
    1126469|f2e3df17||Kulik Kulikov and his men are busy preparing the hunt, so I’ve a few moments to write up this whole incredible affair.<br><br>Week back I arrived home in Oxenfurt after a long journey and found I’d received a letter from my barrister. My aunt Helena had finally passed on and left all her belongings, including her hut outside Novigrad, to me. The letter included a copy of her will and a key to the chest in which she had stashed her savings. Remembering how my dear auntie would serve her guests only bread and water, I was sure she’d managed to save up a hefty stash of coin during her long and miserly life. So I raced off in a flash to my aunt’s hut, to pay my respects at her grave, and while there, take a gander at what’s in that chest. But when I got there, the hut was in ruins and the neighboring peasants were claiming a griffin had nested on my aunt’s lands. So there I was, a fortune in arm’s reach, and not a way to get at it. So I went back to Oxenfurt and raced to the Alchemy, fast as my feet would take me, for I’d heard the famous Kulik Kulikov and his crew were watering their horses there after their latest adventure. We agreed terms quick enough (he’d get a portion of what we found in the chest) and set off to exterminate this ploughing pest of a griffin.<br><br>Now I’m sitting and watching Kulikov’s lads arm the ballista, writing this all down to calm my nerves and pass the time.<br><br>Fun’s about to start!
    1135163|d4eb3cb7||Crypt key
+   1063830|7294a04b||Velen longsword
    1125875|6eac0fc7||Pastoral diary of Father Glaedfried
    1125893|ce8ab2a5||[journal is covered in blood, heavily damaged, only last page can be made out]<br><br>My wanderings for the Fire's glory next took me to preach to Brunwich, the village curled 'round the lake. And lo and behold, what did the Most Holy Flames illuminate for me there? A hive of hardened heathens, too lost in sin to lift a cursed finger to care for the hearth of the Eternal Fire! Filled with divine wrath, I ask them, "Why's your chapel in such a sorry state?! Why's your cemetery all covered in weeds?!" Their response? "Ghosts! Curses fallen upon hallowed ground." They blame it on the ealdorman's wife, say she went mad from riches and… [illegible fragment] ... and ever since that tragedy, chapel's lain in ruins, with no one daring to go near. So the task falls on me to guide these foolish lost sheep back on the righteous path and away from the rubbish they believe. I intend to enter the chapel alone, armed only with the torch of the Eternal Fire to light my path, and see just what lurks within...
-   1107189|5116834f||Soaked letter
-   1107203|03c3341d||Hymke,<br><br>Round up the lads, we've got a job. It's time Hugo Hoff took a long walk of a short pier on the Pontar. To prove it's done, bring back his ear.<br><br>– Falk<br><br>P.S. Seems Ewald's interested in Hoff, too. So watch your arse.
-   1135596|c949a447||Hugo Hoff's ear
-   1071249|25691b0a||Can be sold to merchants or dismantled into crafting components.
+   1121671|33db54d0||Ofieri decorated saber
+   1083687|0cd9e187||Steel sword. Used when fighting humans.
    1130661|3ad28e37||Count Romilly's journal (part 2)
    1130662|6be1ba35||[Last pages torn from Count Romilly's journal]<br><br>A pox upon Anastasia von Bourmann, a pox upon her whole ploughing house! I’ve finally found a way to end this deadly little charade she’s put on. The key to unraveling the riddle lay in a dusty old tome in my library. That little vipress was marked by a leshen! That is why the monster attacked my castle. There was only one way out of this situation…<br><br>I snuck up while she slept and throttled her. She didn't even manage to peep. Now I can finally leave my castle walls, thank the gods. The monstrosity has skirted off into oblivion along with that accursed child. That entire affair was a horrific error. I’m just glad the savings from previous missions are safely preserved in the castle treasury. I must recruit some mage, perhaps that will ensure I avoid such incidents in the future.
    1137155|1f5078dd||Ornate key
@@ -1507,17 +1448,27 @@
    1137018|2b5c7442||[Diagram written in an unknown tongue, requiring translation. Drawings show various stages of crafting boots.]
    1137019|0e383d88||Armor diagram - untranslated
    1137020|19e9f584||[Diagram written in an unknown tongue, requiring translation. Drawings show various stages of crafting armor.]
-   1126415|53a62b5b||Cleansing mixture
+   1130052|19ad7f57||Order of the Flaming Rose armor
+   1086354|942892ef||Heavy gear. Increases Armor and decreases Stamina regeneration.
+   1130941|65fff3d0||Ornate robe
+   1130948|acf09530||Noble attire.
+   1121672|0dc7103b||Ofieri tunic
+   1086352|736e017e||Light gear. Increases Armor and Stamina regeneration.
+   1140031|1346ea45||New Moon armor
+   1086353|320650a7||Medium-weight gear. Increases Armor.
+   1121647|a81a3125||Ofieri sharovary
    1136997|3d920257||Letter with orders
    1136998|7145da15||Robbe,<br><br>I've given you a whole month. And? Nothing. No progress. Diagrams're just as damn incomprehensible as when you started. So that's it. Enough fucking around.<br><br>You’re to do the following. Keep one diagram and stare at it till you hit on something, and send the rest to the other camps. Maybe some of the lads there ain't quite so dense and’ll manage to translate those damned scratchings into something we can use.<br><br>Those alchemists encamped by the bee yard've spent most of their lives poring over books, so send on of the drawings to them. Send a second to the band that occupies the brick ruins by the lake. One of the lads there was supposed to be ordained a reverend. He knows strange tongues. As to our transfer base in the bogs near the abandoned village, a lad there was formerly a librarian's assisstant. Send him the third diagram.<br><br>-Ulrich<br><br>P.S. For inspiration, try your hand at translating this:  Robbe caen me a'baeth aep arse.
-   1119663|e6c005fa||Taxpayer in Good Standing Diploma
-   1119669|8987a452||[[CSV_EXPORT_PIPE]]==== TAXPAYER IN GOOD STANDING DIPLOMA ====[[CSV_EXPORT_PIPE]]<br><br>In recognition of his manifold virtues, the Revenue and Customs for Occupied Temeria, Dorian branch, awards the<br><br>Taxpayer in Good Standing<br><br>to Geralt of Rivia, a witcher of the Wolf Guild<br><br>Honestas ante Pecunia!
+   1107189|5116834f||Soaked letter
+   1107203|03c3341d||Hymke,<br><br>Round up the lads, we've got a job. It's time Hugo Hoff took a long walk of a short pier on the Pontar. To prove it's done, bring back his ear.<br><br>– Falk<br><br>P.S. Seems Ewald's interested in Hoff, too. So watch your arse.
+   1135596|c949a447||Hugo Hoff's ear
+   1071249|25691b0a||Can be sold to merchants or dismantled into crafting components.
    1129163|8c3e3089||Contract: Apprentice Gone Missing!
+   1058789|7610151a||Notice found on a notice board.
    1129251|4258bb23||Good folk!<br><br>My apprentice, Folkert, has disappeared without a trace. I'm terribly worried about him, so whoever finds him and brings him back shall receive a sizeable sum of Novigrad crowns.<br><br>If you're interested, come to my hut, on the outskirts of Oxenfurt. If you lose the way, ask passing peasants where the local herbalist has his practice, and they'll guide you.<br><br>–Otto Bamber, herbalist
-   1136601|9fec18b6||Maximilian Borsodi's house
+   1126415|53a62b5b||Cleansing mixture
     525739|30a3e2be||Rusty key
    1058699|e0f559d0||Old, rusty key, made for a crude lock.
-   1063830|7294a04b||Velen longsword
    1119569|91c5c0b1||Summons to payment
    1119578|974d03fb||Geralt of Rivia, a witcher of the Wolf Guild headquartered at Kaer Morhen (Kaedwen, Aed Gynvael district, tax identification number: 788776543), is hereby summoned to settle tax arrears in the amount of 1000.00 NC (one thousand Novigrad crowns and zero coppers) as soon as physically possible at any branch of the Vivaldi Bank. Failure to heed this summons will lead to said delinquent being cut off from access to the banking system. <br><br>On behalf of the Revenue and Customs for Occupied Temeria, Dorian branch<br>Deputy Tax Enumerator Walthemor Mitty
    1135404|d189d82b||Jade
@@ -1525,35 +1476,35 @@
    1142016|7f93aeac||A Runewright Upon Your Shores Has Landed
    1142017|5a7b9ae0||To my fellows from the world's other bosom,<br><br>Vast seas have I crossed to reach this your most fascinating land, to learn the names of the animals which in it dwell, of the plants which in it grow, and most of all of you, its folk.<br><br>Ravenous waves devoured the tools of my art, yet the runewright's labor does not with his hands end  – for he endlessly strives the world to explore, its mysteries to comprehend. Thus if you wish to stay a while and converse with a traveler from far-off Ofier, I invite you to my tent, which I have pitched by a mill near the village named Brunwich.<br><br>Praised be the world in its never-ending creation.
    1137100|d182ddf9||Pickaxe
+   1136601|9fec18b6||Maximilian Borsodi's house
    1134739|5fc079e0||Orders to attack Bowdon
    1126818|7651b02c||I've heard rumors the abandoned village of Bowdon's abandoned no more. A pack of common bandits have moved in and made it into their own little fisstech manufactory.<br><br>We cannot allow this. I'm issuing the order to attack the village and exterminate the vermin. We'll make an example, strike some terror in everyone's hearts. Haul any equipment and supplies to our lab northwest of Brunwich. Destroy everything else.<br><br>- Ulrich
    1134738|90dc75f0||Warning letter
    1126817|dea0be1c||Kluivert,<br><br>Mate, you gotta keep your eyes peeled wide open. Someone's taken an interest in your work. They wanna make you an offer you're not gonna be able to refuse. In your shoes I'd pack it up and go hide somewhere far away. Zerrikania, for example.<br><br>-Rodrich
-   1134919|d98679c5||Caparison of Lament
-   1137249|89ff7bff||The saddle appears to be fashioned of strange leather, the hide of some unknown beast. As evidence of its unusual nature, suffice it to say that it is always rather warm to the touch. The saddle addles the mind of a randomly-selected opponent within a limited range.
+   1121665|7c2aad78||Iris
+   1121666|a6d3aefe||Saber once belonging to Olgierd von Everec.
+   1126410|8ee4baf2||Formula: Cleansing mixture
+   1082262|fef56424||Formula for brewing a witcher potion.
    1140033|1353acc7||New Moon boots
    1140032|5f7fe6f4||New Moon gauntlets
    1140034|141294e2||New Moon trousers
-   1135721|e2826568||Gilian Alboco's Lesser Key
-   1135722|6f1db9a4||The essence of Evil is to cause suffering. There exist many varieties of suffering: from common corporeal pain through the rarefied torment of the psyche to deep wounds dealt to the soul. Whence then does Evil arise? Does it appear on its own? Or does it only spread when conditions are ripe? And finally, the most important question: How can Evil be defeated?<br><br>Most believe Evil has always existed, for none remember a time when it did not. Yet is that sufficient proof? I dare to doubt it, for I am a scholar, and the essence of scholarship is to question all hypotheses until they have been rigorously proven.<br><br>The appearance of Evil is closely tied to the existence of Good, its opposite and antithesis. Good without evil is dimensionless and therefore imperceptible. Evil, then, is an integral part of our lives.<br><br>Evil wears many faces and appears in many different forms. One of them wears a skin of flesh. This Evil incarnated as man travels the world, sowing death and suffering. Such Evil is devious and difficult to discern. We usually only note its presence when it is already too late.<br><br>In my scholarly wanderings through the myths and legends of a great many cultures, I’ve come across descriptions of a certain individual which all display a striking similarity. I do not mean in terms of this individual’s outer appearance or name, but of his modus operandi. This Evil works through trickery, tempting at first with the offer of something seemingly good. The price one must pay for this object of temptation, however, is enormous and nonrefundable, and the promised good often contains horrifying hooks and treacherous traps. Beware, then, of any who promise the impossible, for such can only be delivered through the machinations of Evil.
-   1134820|aaba7a79||Violet rose
-   1136752|64a8e1a6||Painting of Iris holding a violet rose
-   1134811|81e697e3||Iris' sketchbook
-   1134817|619f08cf||Ornamented brush
-   1134819|b2659f4a||Portrait of Iris and Olgierd
-   1136559|c8ef1891||Teapot
-   1134809|068eef0b||Key to the manor's front door
-   1134808|aff38705||Key to the manor's back door
-   1136560|69e23aff||Bouquet of flowers
-   1136561|bfd087eb||Wedding veil
-   1136563|11b47125||Night gown
-   1136562|8151bb5e||Night lamp
-   1136564|2f4a6f10||Knife
-   1136565|85a9c3e3||Pipe
-   1138435|188a00f8||The Caretaker's spade
-   1084281|9f649ab1||Secondary weapon. Witchers are not trained in the use of weapons of this type.
+   1130055|25ebf422||Order of the Flaming Rose gauntlets
+   1137038|1f9109ad||Order of the Flaming Rose sword
+   1121648|a74e8688||Ofieri scale armor
+   1121646|a847a831||Ofieri boots
+   1121649|4c6bd311||Ofieri gauntlets
+   1121664|2d12e01c||Ofieri saber
+   1130067|a380bc61||Sarrim
+   1082376|a2b4930d||Silver sword. For fighting monsters.
    1131920|bd29a6a5||Strange meat
    1131921|1bd0ebab||A hunk of suspicious-looking meat.
+   1137177|6e703aa0||Viper armor
+   1141668|6e7cfd22||Viper boots
+   1141670|6980a1f9||Viper gauntlets
+   1141672|6f3be53d||Viper trousers
+   1135574|d7c35e92||Ornate boots
+   1137179|52d1d757||Viper venomous steel sword
+   1137186|1bbb573d||Viper venomous silver sword
    1127768|4c0c4a34||Willing to Trade a Leaky Pot for a Cart
    1127828|003ef458||Deal of a lifetime! I'm willing to trade a lovely tin pot, painted with cornflowers and lilies (and showing a few holes, true, but that's a plus, for you can add a few more and look at that, you've got a colander) for a cart. The cart needn't be big, can even be tiny, in fact, just so that two, or better four, people could fit in it, with ample room for bags and sacks, if possible. Could be old, long as it rides well and has new wheels, and strong axles, so actually probably nothing made longer than a year or two ago would do.<br><br>Leave a message with Bohddie.
    1127741|b423418c||Wanted: Cradle, Used but Unworn
@@ -1568,7 +1519,6 @@
    1136571|c7eec480||Had enough of washing up and sweeping up, world without end? Bored of sucking dry bread and boiling cabbage? Your back aching to high heavens from night after night sleeping on the floor? Change your life, right now! Become a princess!<br><br>Sleep on a mountain of pillows atop one tiny pea! Have a gilded carriage and handsome coachman at your beck and call! And as many slippers as you care to lose! All as if by the wave of a magic wand!<br><br>Perrault and Sons, Co., is proud to offer its services as matrimonial intermediaries. We guarantee a personal meeting with a becursed prince*. And this month only, enjoy a special reduced price!<br><br>*Perrault and Sons, Inc. bears no responsibility in the case of loss of life or health during said meeting.
    1137817|f754b955||Auction house letter
    1137819|c433d1d7||Dear Cherished Customer!<br><br>We are extremely pleased you decided to make us of our services. We believe the sculpture by the famed Giacommo Votticelli which you have purchased will bring you immense joy. We hope the art work reaches you safely and unblemished – if not, please report any concerns or complaints to Roy&Roy Deliver Services, who bear full responsibility for the work's transport.<br><br>We hope you will choose to do business with us again and invite you to take part in our subsequent auctions. <br><br>The Borsodis' Auction House
-   1134829|c957dc31||Mug
    1133984|4dcaaa82||Prescription
    1133985|bb9694ca||Patient: Sindram Rushel<br><br>Brew crushed marigold and drink while hot thrice daily at mealtimes. Avoid all greasy foods and by no means drink alcohol in any form for the duration of the treatment. This includes beer.<br><br>[medic's signature mainly illegible, appears first name is "Shani"]
    1133986|f116b8f8||Fundaments of Field Surgery
@@ -1602,6 +1552,8 @@
    1140040|c469b187||Mask representing the face of the Emperor of Nilfgaard.
    1134810|bb3ead1b||Letter from Olgierd von Everec
    1134828|53137318||Vodka glass
+   1135721|e2826568||Gilian Alboco's Lesser Key
+   1135722|6f1db9a4||The essence of Evil is to cause suffering. There exist many varieties of suffering: from common corporeal pain through the rarefied torment of the psyche to deep wounds dealt to the soul. Whence then does Evil arise? Does it appear on its own? Or does it only spread when conditions are ripe? And finally, the most important question: How can Evil be defeated?<br><br>Most believe Evil has always existed, for none remember a time when it did not. Yet is that sufficient proof? I dare to doubt it, for I am a scholar, and the essence of scholarship is to question all hypotheses until they have been rigorously proven.<br><br>The appearance of Evil is closely tied to the existence of Good, its opposite and antithesis. Good without evil is dimensionless and therefore imperceptible. Evil, then, is an integral part of our lives.<br><br>Evil wears many faces and appears in many different forms. One of them wears a skin of flesh. This Evil incarnated as man travels the world, sowing death and suffering. Such Evil is devious and difficult to discern. We usually only note its presence when it is already too late.<br><br>In my scholarly wanderings through the myths and legends of a great many cultures, I’ve come across descriptions of a certain individual which all display a striking similarity. I do not mean in terms of this individual’s outer appearance or name, but of his modus operandi. This Evil works through trickery, tempting at first with the offer of something seemingly good. The price one must pay for this object of temptation, however, is enormous and nonrefundable, and the promised good often contains horrifying hooks and treacherous traps. Beware, then, of any who promise the impossible, for such can only be delivered through the machinations of Evil.
    1123051|30957a7d||M. Urlich's orders
    1123052|ee8589af||To Gregor Burdder:<br>Clear out that Master Topical’s hut and take everything that might come in handy for our lab. If said Master Topical knows anything at all about alchemy, take him with you. If not – may the Eternal Fire carry his soul into eternity.<br>Get it done fast and without making too much noise.<br>M.
    1114024|3768dcf9||Damaged journal
@@ -1633,8 +1585,10 @@
    1123050|f914c797||Pitched camp in the ruins of the observation towers, as M. ordered. Hope we won’t have to sit here long.<br><br>[margin note] IMPORTANT: Brenn lost 200 crowns to me at gwent, but has no coin on him – need to take it out of his next share of the loot.<br><br>Boring as fuck. Been sitting here eight days now, and naught's happened. Besides that one grain caravan, which we raided, sending the merchants off running in only their unspeakables. Hope to high heavens they’ll transfer us somewhere more interesting quick, because here every man jack of us is near about off his nut with boredom.
    1123060|98c461bc||Master Urlich's orders
    1123061|0e1051d0||To Antoine Pfeil<br>Clear the elven ruins of all valuable artifacts. Once that's done, put fire to that rubbish heap and burn it to the ground. Regarding your question about the elven manuscripts you discovered – hand over the diagram during the next change of patrols. Our armorsmith will set about deciphering it.<br>M.
+   1134820|aaba7a79||Violet rose
    1123062|98c461bd||Elegant letter
    1123063|0fc52a6f||To be delivered personally to the hands of the honorable knight Sir Antoine Pfeil.<br><br>Our “unusual” partnership has brought me enormous pleasure. I trust Sir Knight finds himself in good health. I have cataloged the last shipment of elven sculptures and sold the entire lot at once. As per our agreement, find attached the bill of accounts for our most recent transactions.<br>Sculpture: Giann'Lorenzo - "The Rape of  Elirena (Aelirenn)", Buyer: Kurt Dysart, 300 Nov. crowns (minus 35% transaction fee)<br>Sculpture: Votticelli - "Phoebus and Daphnae", Buyer: Kurt Dysart, 430 Nov. crowns. (minus 35% transaction fee)<br>Sculpture: Giann'Lorenzo - "The Ecstasy of Gvalch'ci the Bloody," buyer: Rudolf de Jonkheer, 550 Nov. crowns (minus 35% transaction fee)<br>Sadly, I was unable to finalize the sale of “Pietas” by Michel’Angellach to Brandon & Co., Inc. The company sued for a deferment of the sale due to some claimed financial difficulties (rumors around town claim the firm’s senior partner was robbed in broad daylight by some white-haired (sic!) witcher), but for obvious reasons I did not agree to prolong the payment period. A messenger with the earnings will present himself at the agreed-upon spot. I impatiently await the next transport.<br><br>Yaromir E. Carstairs
+   1136752|64a8e1a6||Painting of Iris holding a violet rose
    1123066|391db598||Notes from the ealdorman of Mohrin
    1123067|d6fd0774||[ealdorman’s journal, pages crusty with blood, only last entry legible]<br><br>Don’t like that vagrant old man Shaerk’s letting a room to. Introduced himself politely enough, calling himself Krister, saying he was a tinker from Oxenfurt, come to escape the hue and cry of the big city, but something about him stinks of lies to my nose. He don’t look like the peace-searching kind, more like the peace-disturbing sort. Trouble, I’m telling you!<br><br>No doubt knocked up some maid in town or, even worse, did one in – looks like a killer to me. He’s as much a tinker as I’m an Ofieri enchanter. He don’t tend to no normal labors, just wanders the woods and, what’s worse, keeps asking about those whoresons in red armor. Gods, please, don’t let this scoundrel bring us more misfortune.
    1124262|657bb5be||Arachnocidal substance
@@ -1661,14 +1615,10 @@
    1137004|bdeae217||Tuur,<br><br>Ulrich told me to send you one of those stolen diagrams. He’s dead set on puzzling them out quick as possible. No idea what’s put the fire to his breeches – but knowing him, there’s coin involved, sure as shaving. So if you do manage to decipher anything, write me first and we’ll reconnoiter on what to do next. That lout’s starting to rile me – sits on his arse all the time, getting up only to come chew us out. High time he was taught a lesson.<br><br>-Robbe
    1141151|d81cb09a||Orders for Clean-Up Unit
    1141152|3a8c9db2||To Eric von Kidon<br><br>I shall be brief, as the matter is simple. The issue of Krister Hagen must be resolved in a manner both complete and final. The village that served as a safe haven for the imperial snitch must be burnt to the ground, the surrounding fields sown with salt. Drive the women and children off, hang all the men.<br><br>M.
-   1134830|e07c3776||Marriage contract
-   1137613|b65b0056||Prenuptial Agreement<br><br> We, the undersigned, Iris Bilewitz and Olgierd von Everec, have agreed to seal our love in a marital contract and to bind ourselves to certain covenants. Let this document stand as an oath before the gods and all that we hold holy that, till death do us part:<br><br>- we shall treat one another with mutual respect and give due hearing to each other’s’ requests and opinions,<br>- if separation shall come, we shall each retain all property, both moveable and immoveable, which we brought into the marriage, and additionally each shall keep any presents given by the other during the duration of the marriage,<br> - the income which each receives, each shall spend as he or she sees fit, with all costs related to the maintenance and upkeep of mutual possessions being divided equally between the parties,<br><br>[...]<br><br>Signed:<br>Iris Bilewitz<br>Olgierd von Everec
    1121669|6045b51e||Ofieri saddle
+   1082359|fc5e14ab||A horse equipped with a saddle won't tire as easily.
    1135586|f957ee74||Key to Professor Shakeslock's home
    1135587|4b4209fa||Opens the door to Professor Shakeslock's house in Oxenfurt.
-   1134831|61a6cd04||Food tray
-   1134825|53e817d3||Large bowl
-   1134823|1d9ead79||Small bowl
    1137517|6a950d69||Diagram: Pyerog runestone
    1071246|197c7852||You will be able to craft this item after reading.
    1137518|f989c3b6||Diagram: Tvarog runestone
@@ -1691,10 +1641,7 @@
    1130068|3f900cef||Diagram: Sarrim
    1137187|bf5bc4cb||Diagram: Viper venomous silver sword
    1130045|cb009256||Diagram: Ofieri scale armor
-   1134821|897c1026||The Spirit from the Steppe
-   1136383|97d715a6||Might man yet learn his neck to bend?<br>Ha! Behold how that noble race,<br>Doth year by year its birthright rend,<br>Its promised lands fast lay to waste.<br><br>Hearts grown cold, brothers brothers spurn,<br>The rich grow fat, while poor grow thin.<br>Some hoard bread, others can but yearn,<br>Then rise, en masse, to slay their kin!<br><br>Taste ye now my missive’s fruits,<br>Feed on them, o heartless brutes!<br>This world you’ve bit with cruel-tipped fangs,<br>Your dark crime’s venom now through it seeps.<br>Above, gods’ wrath in wild clouds hangs<br>A cleansing storm soon to unleash!<br><br>[…]<br><br>Man – A Riddle Stuck in Sleep<br><br>A grub, enwrapped in spittle,<br>Beneath the tumult of raging skies,<br>Waits and grows, little by little,<br>Till – at last! – a bright ray it spies,<br>Spreads new wings, and away it flies!<br><br>May this thought with man endure!<br> May we ever in heart recall<br>This merry creature, winged and pure,<br>And how it started, so strange, so small!<br>Whoever seeks from flesh a cure,<br>To skies above doth plead and call,<br>May in this soul our tale hope stir!
    1130043|6ebe74bf||Diagram: Ofieri boots
-   1134827|30eec58c||Painter's palette
    1130050|0352879f||Diagram: Ofieri gauntlets
    1130044|b9015cb3||Diagram: Ofieri sharovary
    1130164|51f61465||Diagram: Order of the Flaming Rose armor
@@ -1707,9 +1654,35 @@
    1137602|517fea02||Lets you blend into a crowd.
    1138736|5ca31696||Boar pelt
    1138737|5ca524f2||Boar tusk
-   1134824|c957b6b0||Glass
    1136794|6f550964||Conserved shaelmaar trophy
+   1082377|80754472||Strap trophies to your saddle to receive a bonus.
    1046134|ed6d7fc4||Crossbow
+    593514|7c80c0a0||Weak shield
+   1134811|81e697e3||Iris' sketchbook
+   1134817|619f08cf||Ornamented brush
+   1134819|b2659f4a||Portrait of Iris and Olgierd
+   1134808|aff38705||Key to the manor's back door
+   1134818|1b478f29||Iris von Everec's remains
+   1134809|068eef0b||Key to the manor's front door
+   1136559|c8ef1891||Teapot
+   1136560|69e23aff||Bouquet of flowers
+   1136561|bfd087eb||Wedding veil
+   1136563|11b47125||Night gown
+   1136562|8151bb5e||Night lamp
+   1136564|2f4a6f10||Knife
+   1136565|85a9c3e3||Pipe
+   1134829|c957dc31||Mug
+   1134830|e07c3776||Marriage contract
+   1137613|b65b0056||Prenuptial Agreement<br><br> We, the undersigned, Iris Bilewitz and Olgierd von Everec, have agreed to seal our love in a marital contract and to bind ourselves to certain covenants. Let this document stand as an oath before the gods and all that we hold holy that, till death do us part:<br><br>- we shall treat one another with mutual respect and give due hearing to each other’s’ requests and opinions,<br>- if separation shall come, we shall each retain all property, both moveable and immoveable, which we brought into the marriage, and additionally each shall keep any presents given by the other during the duration of the marriage,<br> - the income which each receives, each shall spend as he or she sees fit, with all costs related to the maintenance and upkeep of mutual possessions being divided equally between the parties,<br><br>[...]<br><br>Signed:<br>Iris Bilewitz<br>Olgierd von Everec
+   1134831|61a6cd04||Food tray
+   1134825|53e817d3||Large bowl
+   1134823|1d9ead79||Small bowl
+   1134821|897c1026||The Spirit from the Steppe
+   1136383|97d715a6||Might man yet learn his neck to bend?<br>Ha! Behold how that noble race,<br>Doth year by year its birthright rend,<br>Its promised lands fast lay to waste.<br><br>Hearts grown cold, brothers brothers spurn,<br>The rich grow fat, while poor grow thin.<br>Some hoard bread, others can but yearn,<br>Then rise, en masse, to slay their kin!<br><br>Taste ye now my missive’s fruits,<br>Feed on them, o heartless brutes!<br>This world you’ve bit with cruel-tipped fangs,<br>Your dark crime’s venom now through it seeps.<br>Above, gods’ wrath in wild clouds hangs<br>A cleansing storm soon to unleash!<br><br>[…]<br><br>Man – A Riddle Stuck in Sleep<br><br>A grub, enwrapped in spittle,<br>Beneath the tumult of raging skies,<br>Waits and grows, little by little,<br>Till – at last! – a bright ray it spies,<br>Spreads new wings, and away it flies!<br><br>May this thought with man endure!<br> May we ever in heart recall<br>This merry creature, winged and pure,<br>And how it started, so strange, so small!<br>Whoever seeks from flesh a cure,<br>To skies above doth plead and call,<br>May in this soul our tale hope stir!
+   1134827|30eec58c||Painter's palette
+   1134919|d98679c5||Caparison of Lament
+   1137249|89ff7bff||The saddle appears to be fashioned of strange leather, the hide of some unknown beast. As evidence of its unusual nature, suffice it to say that it is always rather warm to the touch. The saddle addles the mind of a randomly-selected opponent within a limited range.
+   1134824|c957b6b0||Glass
    1134822|40946451||Bloody towel
    1134826|7cbcb47b||Fruit bowl
    1134816|3d6d2cad||Glass
@@ -1719,6 +1692,33 @@
    1136375|121eb222||Of all the beings inhabiting the Outer Spheres, the spirits of the elementals are the most foreign to human nature. They possess a will of their own and are intelligent, though not in the way of men. For there is no way to fathom their drives and intentions.<br><br>Genies, the most powerful of the elemental spirits, prove the most difficult for men to commune with. Only the true masters of magic have perfected this art, which demands long years of study and risky experiments. Yet even the most adept at the magic arts cannot tame a genie, merely force it to perform certain acts against its own volition.<br><br>They say the mage Stammelford once commanded a d’ao to move a mountain blocking the view from his tower, but even he could never convince a genie to be a willing helpmate in his work or to give sound advice, for the reasoning of these creatures is beyond human understanding.
    1134815|d23eb70d||Piece of chalk
    1134814|322eda78||Beeswax candles
+   1126599|a5b18d24||Censer
+   1126602|ab99382a||Used to spread incense during religious ceremonies and rituals.
+   1126446|7b13f5e3||Von Everec blood
+   1127744|d9fe367f||Crypt key
+   1138435|188a00f8||The Caretaker's spade
+   1084281|9f649ab1||Secondary weapon. Witchers are not trained in the use of weapons of this type.
+   1107645|e291c953||Lost shoe
+   1107644|013c3340||Lost shoe
+   1107643|013c333f||Lost shoe
+   1123954|0bc2c970||Ass ears
+   1137058|692b43d2||Fence board
+   1135578|196f8b1c||King of Swineherd's crown
+   1121670|33db54cf||Ofieri kilij
+   1130169|65acf151||Ofieri stock saddle
+   1048420|b3185d53||Bolts
+   1048421|b9000859||Standard crossbow bolt.
+   1121668|9d1ce391||Ofieri saddlebags
+   1082351|474bf324||Saddlebags allow you to carry more weight.
+   1121667|0733ba6f||Ofieri blinders
+   1082358|1f2ac3de||A horse equipped with blinders won't panic as easily.
+   1133979|150b97f8||Bottomless carafe
+   1133980|cc194db2||Provides an endless supply of hard alcohol. The spirit is distilled from scorpion tails.
+   1133982|633c40f7||Horn of Plenty
+   1133981|efd01d31||Provides an endless supply of food. The horn of plenty seems alive and pulses while producing food.
+   1107642|c93b8542||Fire swallower's cap
+   1123913|1c4b8083||Contract: Monster in the Sewers
+   1123914|2be05769||Let it be known that Olgierd von Everec shall pay a generous reward in gold, jewels and movable goods (subject to negotiation) to any man who descends into the Oxenfurt sewers and kills the beast which has infested them and taken to murdering the innocent, with an especial predilection for young maids. The task is best suited for a battle-hardened individual, a soldier or possibly a witcher, who will not run at the sight of drowners, for the sewers are chock full of such nuisances.<br><br>For more information, inquire at the Garin Estate (to the northeast of Novigrad).<br><br>Ask for Olgierd von Everec.
    1141674|b3d35f5c||Legendary Viper armor
    1141676|b3e021de||Legendary Viper boots
    1141678|d08214bd||Legendary Viper gauntlets
@@ -3296,6 +3296,23 @@
    1116666|00000000||Did you see it? Shani caught the garland. She'll be next to marry as peasant superstition has it.
    1116668|00000000||Maybe. Doesn't matter. It's past midnight. Time for you to go back to the crypt.
    1116670|00000000||I can't. I'm not finished here.
+   1131946|00000000||The midnight chime has struck, the capping time's a-come! What thoughts in young hearts prance, what dreams make young blood run?
+   1131983|00000000||Be they nice, be they vice, of jesterly or lordly stance, out they'll come in this hour's dance!
+   1131950|00000000||Toast the lovely couple, then give 'em a few weeks, and we'll toast the lovely bairn with its pale and puffy cheeks.
+   1131985|00000000||Don't you mind our song, we don't sing to be unkind, we sing so we can em'ty yet another stein!
+   1131987|00000000||Bride's sworn love eternal, bridegroom best beware or she'll make you a cuckold in the comin' year.
+   1131989|00000000||What's the groom a-thinkin' – a storm upon his brow? Must be second guessin' if he'll get that cow!
+   1131991|00000000||You'll get the cow, lad, the bull, the calf, the hay! So drink and be merry, ‘tis your wedding day – yeow!
+   1131955|00000000||Be happy, daughter dear.
+   1131958|00000000||Gar-land, gar-land, gar-land!
+   1131962|00000000||As hallowed tradition holds, whoever caught the garland shall be next to wed!
+   1131967|00000000||That really necessary?
+   1131969|00000000||It came rushing back in a torrent – how we caroused at Olgierd's wedding.
+   1131971|00000000||I couldn't resist, had to pen a few words. Will you give him the letter?
+   1131973|00000000||I will.
+   1131975|00000000||Thanks. You're a good chap, witcher. Dull as dirt, but good.
+   1131978|00000000||Heheh - witcher's talkin' to himself. Must be damn sloshed, eh?
+   1131980|00000000||And good on it! Gotsta get drunk at a weddin'!
    1113005|00000000||No need?! Why, there's every need!
    1105609|00000000||Ahem. Till now I'd always considered peasant jollities unworthy of a gentleman! For tell me, who among you would rub shoulders with swineherds if born a noble?
    1105611|00000000||I delighted in the beauty of buxom farm wenches, of course, and indeed still do. Given more time, I'd prove this to each and every maiden here!
@@ -3312,23 +3329,6 @@
    1111918|00000000||Go on, Shani. I'll manage fine alone.
    1095656|00000000||Ladies and gentlemen! This night I've tasted of life's delights so fiercely, I've decided to make a speech!
    1102290|00000000||Geralt! There's no need.
-   1131946|00000000||The midnight chime has struck, the capping time's a-come! What thoughts in young hearts prance, what dreams make young blood run?
-   1131983|00000000||Be they nice, be they vice, of jesterly or lordly stance, out they'll come in this hour's dance!
-   1131950|00000000||Let's toast the lovely couple, but afore a year shall pass, we'll toast a little bairn, who's lovelier by half.
-   1131985|00000000||But ne'er you mind our singin', ‘tis only meant for laughs, a pretext and a ruse, so we can drink a glass.
-   1131987|00000000||The bride has sworn her vows, but the groom still best beware, lest in the coming year, two horns on head he'll wear.
-   1131989|00000000||What's got our groom a-thinkin'? He's so gloomy now. Perhaps he's second guessin', if he'll get that cow?
-   1131991|00000000||You'll get your cow, my lad, and calves and milk and all, So merry make and drink, for ‘tis your wedding ball!
-   1131955|00000000||Be happy, daughter dear.
-   1131958|00000000||Gar-land, gar-land, gar-land!
-   1131962|00000000||As hallowed tradition holds, whoever caught the garland shall be next to wed!
-   1131967|00000000||That really necessary?
-   1131969|00000000||It came rushing back in a torrent - how we caroused at Olgierd's wedding.
-   1131971|00000000||I couldn't resist, had to pen a few words. Will you give him the letter?
-   1131973|00000000||I will.
-   1131975|00000000||Thanks. You're a good chap, witcher. Dull as dirt, but good.
-   1131978|00000000||Heheh - witcher's talkin' to himself. Must be damn sloshed, eh?
-   1131980|00000000||And good on it! Gotsta get drunk at a weddin'!
    1115850|00000000||Olgierd's wife liked flowers. Judging by the ornamentation, this might be hers.
    1115852|00000000||Seen this hairbrush. It was in bad shape in the real world.
    1116557|00000000||Not you again.
@@ -7099,3 +7099,4 @@
    1127414|00000000||Ah! "With monstrous 'ead and sickenin' cry, and ears like errant wings!"
    1107529|00000000||Esteemed ladies, honorable gentlemen! The auction will begin shortly! Take your places, please!
    1107531|00000000||Ah! At long last! Come with me to the fore. I won't see much elsewise.
+   1136376|00000000||Violet rose

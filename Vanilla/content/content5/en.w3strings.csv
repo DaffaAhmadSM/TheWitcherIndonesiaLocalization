@@ -1357,7 +1357,6 @@
     582894|00000000||An Craite, 'tis a worthy clan.
     163804|06860285||Siren
    1049999|00000000||They speak true - nothing like a witcher for killing monsters.
-    516508|b0678eeb||Horse
     349794|00000000||Yeah, we can hunt 'em together.
     349796|00000000||Grand, let's get goin' then. I've picked up their trail, they shouldn't be far.
     349790|00000000||Yeah, we can work together.
@@ -1960,12 +1959,6 @@
     481226|00000000||I'll remember that. So long.
    1056448|00000000||Come again, eh?! Great things're bound to happen 'ere. Mark my words!
    1056462|00000000||I hope they do. Good luck.
-    481190|00000000||How's my cut of the earnings doing?
-    481206|00000000||Business is booming, far as I can see…
-    481207|00000000||Better believe it! Every man and his hound wants to fight in the Cursed Arena!
-    481208|00000000||My cut of the proceeds must've grown sizeable…
-    481209|00000000||And how! Here.
-    503357|00000000||Always a pleasure doing business in Skellige.
     503302|00000000||Thanks. So long.
     480998|00000000||Know anything about this specter? When'd it first appear?
     481000|00000000||Me grandda told me his grandda said the wraith was called Ulle the Unlucky. Lost every bout he entered, yet always recovered from his wounds. Ulle weren't even able to die like a man!
@@ -2006,6 +1999,12 @@
     481229|00000000||Nothing's ever easy with specters.
     481230|00000000||Aye, I believe it took effort… And effort deserves compensation.
     480951|00000000||Got rid of the ghost.
+    481190|00000000||How's my cut of the earnings doing?
+    481206|00000000||Business is booming, far as I can see…
+    481207|00000000||Better believe it! Every man and his hound wants to fight in the Cursed Arena!
+    481208|00000000||My cut of the proceeds must've grown sizeable…
+    481209|00000000||And how! Here.
+    503357|00000000||Always a pleasure doing business in Skellige.
    1036744|00000000||Oh, witcher. Changed your mind, have ye?
     499376|00000000||Lookin' for a nook, lovebirds? Look elsewhere.
     499377|00000000||Castle staff only!
@@ -3970,6 +3969,7 @@
     500857|00000000||See you.
     163718|00000000||Take care.
     163716|00000000||I'd like to reforge my sword.
+    421430|00000000||Need something crafted.
     500823|00000000||White Wolf!
     587236|00000000||Follow the thread…
    1055555|770e6af8||Boatwright's Apprentice
@@ -4145,7 +4145,6 @@
    1022284|00000000||Every lass would want a man like Udalryk… Devoted to the gods, brave…
    1022286|00000000||That's not bravery, that's bravado. And to my eye it's not got much to do with the gods.
    1022290|00000000||I think so, too. He was brave once, true, but now he acts like a madman.
-    421430|00000000||Need something crafted.
     421420|00000000||Need you to craft something for me.
    1028761|00000000||In the mood for some diversion. A game of gwent'd be best.
    1086482|00000000||Hankering to play cards. Up for a round or two?
@@ -7075,6 +7074,7 @@
     502278|00000000||The hym's gone. So are the voices that tortured you.
     502295|00000000||Don't worry, it'll pass.
     502299|00000000||You're disoriented, but don't worry, it'll pass.
+    502328|00000000||What will you do?
     502329|00000000||Farewell.
     502331|00000000||Good idea. Take care of yourself.
    1064951|00000000||Generalize much? I'd say when someone's got a good idea, there's no reason to deny it - and whether they're man, woman or dwarf doesn't come into play.
@@ -7103,7 +7103,6 @@
     502313|00000000||I'll stay a few days, make sure he's healthy. And you? Gonna stay on Spikeroog?
     502315|00000000||Don't know yet. Gotta gather my thoughts.
     502317|00000000||I'm sure Yennefer must be growin' impatient…
-    502328|00000000||What will you do?
     502302|00000000||I feel… as if someone's torn something from me.
     502303|00000000||That's normal. The hym was a parasite. Bonds between parasites and hosts can be strong. That's why you feel empty now.
     502305|00000000||Give it a few days, weeks, you'll be fine.
@@ -7314,12 +7313,12 @@
    1087818|00000000||We serve Her who is Virgin, Mother and Crone.
    1087820|00000000||Away with you.
    1087822|00000000||Watch your strut!
-   1074372|00000000||Ugh, witchers. I see you're inclined to respond to the call of the wild…
-   1074374|00000000||Ah, fine. In that case, meet me at Larvik.
    1074364|00000000||Decided to keep me company?
    1074366|00000000||Never know what might come at you deep in a dark forest.
    1074368|00000000||You think someone may wish to hurt me?
    1074370|00000000||Think I should warn off anyone who'd be dumb enough to try.
+   1074372|00000000||Ugh, witchers. I see you're inclined to respond to the call of the wild…
+   1074374|00000000||Ah, fine. In that case, meet me at Larvik.
     480695|00000000||I'm guessing you have a plan…
     480701|00000000||Take it you've got a plan?
     480703|00000000||No, I just like to stare at rotting flesh!

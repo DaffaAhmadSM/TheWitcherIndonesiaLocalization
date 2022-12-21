@@ -1889,6 +1889,7 @@
     415001|00000000||Bugger has to win!
     415003|00000000||Not goin' to happen.
     415005|00000000||Don't jinx it!
+   1224625|00019dd6||Kal
     557837|00000000||Claw marks…
     557861|00000000||Caught one just before he reached the cave.
     557865|00000000||More will spawn. Need to destroy the nests.
@@ -2546,6 +2547,7 @@
     462798|00000000||Dog's tame - a pet. Wonder what it's doing here.
     462800|00000000||Hm, got a key sewed to your collar.
    1044058|00000000||"Portrait of Emperor Emhyr, tempera on wood." Pretty flattering, I'd say.
+    421955|00000000||Top notch swords!
     421963|00000000||Show me what you have in stock.
     421957|00000000||Show me your wares.
     421965|00000000||Willing to craft something for me?
@@ -2557,7 +2559,7 @@
    1035037|00000000||Ooo, I did get my journeyman's papers, but I've yet to make anything akin to a masterwork…
    1035039|00000000||You might try in Velen. A dwarf there, goes by Fergus, he might help.
    1035041|00000000||Guildsmen claim there's no one better anywhere south of the Pontar.
-    421955|00000000||Top notch swords!
+    422112|00000000||Welcome, welcome!
     358190|e29b1c4b||Sorceress
     498724|00000000||Everything seems to suggest a fiend…
     498738|00000000||You're smart! How do you know these things? Did your father teach you?
@@ -4394,7 +4396,7 @@
    1065989|00000000||Thank you. And try not to draw too much attention… if you can.
    1068266|00000000||Remember, the future hinges on the success of this mission. The future of Temeria, the future of the North.
    1068268|00000000||I know. I'll try not to fuck it up. See you.
-   1070509|00000000||We're counting in you, Geralt.
+   1070509|00000000||We're counting on you, Geralt.
    1065975|00000000||I'll find your associate.
    1066016|00000000||Know what - rather not get involved. Stinks of politics from miles away.
    1066040|00000000||Geralt, give it some thought. If you change your mind, find Gregor. Talk to him.
@@ -4975,7 +4977,7 @@
     450621|00000000||It weren't impossible! We could've been together! And now…
     453541|00000000||She's dead! And it's my fault! If only I'd been able to protect her!
     417731|00000000||Can't change the past, but you can still help Anabelle, to move on, to rest in peace.
-    466374|60bed45d||Priest of Eternal Fire
+    466374|60bed45d||Eternal Fire Priest
     466828|00000000||It's the whoreson gave our lads a lickin'! Grab 'im, beat 'im till he shits a rainbow!
     371547|00000000||Hey! White-hair!
     416603|00000000||Be sure and tell us when the rammy's due to start, eh?
@@ -5473,6 +5475,7 @@
     521671|00000000||…but nay, the mage, he says, "Bring me rats! An' healthy ones! Not somethin' the cat dragged in."
     521673|00000000||This the lamp from the elf's hideout? And what's this about rats?
     521676|00000000||Nothing important, I'll explain later. Now tell me - to what do I owe the pleasure?
+    424525|00000000||Wouldn't mind a look at your stock.
    1015229|00000000||That went well. Really know the captain?
    1015241|00000000||Yes. A horrid man. Come now, get to work.
     583332|00000000||Uh, ne-next time you see the captain, m'lady, I'd, um, appreciate you mention…
@@ -5507,7 +5510,6 @@
     422116|00000000||Farewell.
     422114|00000000||Show me your wares.
     422118|00000000||What've you got there?
-    422112|00000000||Welcome, welcome!
     426948|00000000||Unhand me, sir! I could be your daughter!
     427361|00000000||A role-play? I relish the thought!
     426950|00000000||I must steal a kiss, milady! You shall see! Just stand still and remove your mask!
@@ -6044,7 +6046,6 @@
    1007614|00000000||A little busy tending to the foglets. They weren't small, either.
    1007616|00000000||Ah yes, unfortunately, they always emerge. But perhaps that's for the best…
    1031422|00000000||How may I assist you?
-    424525|00000000||Wouldn't mind a look at your stock.
    1090536|00000000||What do you offer?
    1028773|00000000||Yearning to play a few rounds of gwent. That oughta set me straight.
    1086467|00000000||What would you say to a round of gwent?
@@ -6830,7 +6831,7 @@
     446305|00000000||Goooold! Piles of it. Won't do the dead any good now, will it?
     453467|00000000||Strange it's still here - the noble died a time ago.
    1076837|00000000||Let me out, I beg ye! Key's around here somewhere! It's gotta be!
-    451163|cc663b8e||Trader
+    451163|cc663b8e||Merchant
     175639|002eaf48||Cook
     376698|00000000||Hm. Bottom of a container. Silver cylinder, most likely. Runes etched in the bottom. It's warped, probably by the explosion.
     376700|00000000||Bomb part, must be. Smells like… wyvern oil… and… caramel?
@@ -7343,12 +7344,12 @@
    1009039|00000000||Which doesn't mean I'm not happy to see you.
    1008866|00000000||Been in Novigrad long?
    1040496|00000000||Your earring, am I right?
+   1061830|00000000||Oh, my favorite earrings. I can wear them again now that I have both. Thanks, Geralt.
    1040498|00000000||Wait a second… Yes! Lost it years ago. Where did you find it?
    1040500|00000000||Kaer Morhen. In a bed. You know the one.
    1040502|00000000||Ah… yes… the good old days.
    1040504|00000000||I ever tell you you're beautiful when you blush?
    1040506|00000000||Mhm. Back then. Like I said, the good old days.
-   1061830|00000000||Oh, my favorite earrings. I can wear them again now that I have both. Thanks, Geralt.
    1040494|00000000||Your earring - found it at Kaer Morhen.
    1009143|00000000||When you slit Menge's throat, and then… You were fierce. Never seen that side of you.
    1009195|00000000||What would you have had me do? Conjure up a cloud of butterflies?
@@ -7864,6 +7865,7 @@
    1004895|00000000||I'll not steal from me own. I'm no thief.
    1004896|00000000||Ye ain't hungry, then?
    1086143|06f95433||Mouse
+   1224980|00000000||I'll cross - but I'm not gonna pay you a broken copper.
     426522|00000000||Go ahead. Try to take my coin.
     426558|00000000||See this medallion?
     426560|00000000||Uh, gaffer… gaffer!
@@ -8548,6 +8550,7 @@
    1046168|00000000||Akh akh… Antidote's wearing out. Gotta have another dose or get out of here.
    1007603|00000000||Skugga! Svarm! Vattna halla!
    1007606|00000000||Huh. It's starting.
+   1077532|00000000||[PL]
    1054323|00000000||If you ask me, all our taxes should go towards forming a squad… of witchers!
    1054325|00000000||Here, here! And not to those ne'er-do-wells from the Guard!
    1055189|10c1ddc0||Poor Townswoman
@@ -13693,15 +13696,15 @@
     492064|00000000||Why you starin'? Lookin' to get smacked, Nordling?
     492063|00000000||The Tuirseach clan, we're kings among the clans…
     492061|00000000||A life on the ocean waves, a-home on the rollin' deep!
+    525965|00000000||The men of this family have little luck. Skaron Vegelbud died young…
+    525967|00000000||Do you think the women, they… ?
+    525969|00000000||I can't be certain, but rumors abound…
     525971|00000000||Apparently they have this contraption at the Passiflora.
     525973|00000000||Tis an offence to nature! Does the Temple Guard know what goes on there?
     525976|00000000||Shh! The Guard is well aware.
     525978|00000000||Hmm… And you say the price is reasonable?
     526005|00000000||Times of famine and war are necessary. They are how society purges itself, regenerates.
     526063|00000000||Indeed. Naturally, this only applies to the lower orders. And nonhumans.
-    525965|00000000||The men of this family have little luck. Skaron Vegelbud died young…
-    525967|00000000||Do you think the women, they… ?
-    525969|00000000||I can't be certain, but rumors abound…
     178027|00000000||Back to the fortress.
     173965|00000000||What? With this?
     178029|00000000||As I recall, you were the one wanted to test the old legends, change it into a lubberkin.
@@ -15718,6 +15721,7 @@
    1050959|00000000||Whereas he always made for an excellent Trusted Servant or Ghost of the Old King.
     340839|00000000||Ah, so good to see you.
    1080238|9f3db5f2||Gargoyle
+    550496|00000000||Splendid. Sigi Reuven awaits in the next room.
     488281|00000000||Busy with what?
     488291|00000000||Busy? With what?
     488293|00000000||Entertaining important guests.
@@ -15734,10 +15738,9 @@
     487536|00000000||What's the fuss? The bathhouse is closed.
     487561|00000000||Need to talk to the owner. I know he's here.
     487562|00000000||I'm not sure that matters, as he's terribly busy.
-    550493|00000000||You may disrobe here. Your equipment will be safe.
     445483|00000000||If I might be allowed a comment, sir - it's not commonly accepted in this city to stroll about nude.
     460064|00000000||I 'd advise you to don some clothing.
-    550496|00000000||Splendid. Sigi Reuven awaits in the next room.
+    550493|00000000||You may disrobe here. Your equipment will be safe.
    1041951|00000000||Ye-e-e-essss!
    1041953|00000000||Curb your enthusiasm, mate. And sit still or you'll hurt yourself.
    1041958|00000000||But… but he won!
@@ -17737,6 +17740,9 @@
     427274|00000000||End the fucker!
     427276|00000000||Bloodbath…
     427278|00000000||Buggerin' out of here!
+    526092|00000000||The Vegelbuds alone maintain a certain standard in regard to elegant receptions.
+    526094|00000000||Huh. Very true. Others claim it's inappropriate in a time of war…
+    526096|00000000||Ahh, the things people won't say to excuse their own stinginess.
     526106|00000000||Don't listen to those demagogues. Radovid stands for stability.
     526108|00000000||He's a wonderful man, clearly… But something about his eyes…
     526110|00000000||Yes? What about them?
@@ -17745,10 +17751,6 @@
     526126|00000000||You still speak to her? After that horrible mismarriage?
     526128|00000000||Her father and I were chums, you see. I knew old Grimstone quite well.
     526130|00000000||What of it? He's dead, isn't he?
-    526092|00000000||The Vegelbuds alone maintain a certain standard in regard to elegant receptions.
-    526094|00000000||Huh. Very true. Others claim it's inappropriate in a time of war…
-    526096|00000000||Ahh, the things people won't say to excuse their own stinginess.
-   1049412|416c6de4||Gustav Roene
     497508|00000000||Think I plugged every hole in there.
     497509|00000000||All right. Get ready for some magic fireworks. Once I activate the incense, we'll have a moment to talk.
     424413|00000000||That's better.
@@ -21244,6 +21246,10 @@
     509796|d5e81a3d||Nathaniel Pastodi
    1001915|00000000||Ah, Geralt. You know I've always liked you, but now it feels like more… You helped my daughter.
    1001917|00000000||A friend's daughter asked me for help. Not in the habit of turning my back in those situations.
+    158974|00000000||Wanted to talk.
+   1001919|00000000||Telling you Geralt, since you and Hjalmar defeated the Ice Giant together, I see you as one of our own.
+   1001921|00000000||I got the look of a Skelliger?
+   1001923|00000000||You've got the heart of an an Craite.
    1001991|00000000||Son's King of Skellige. Congratulations to you.
    1001993|00000000||Tis a great honor for the an Craite dynasty. First time one of ours sits on the throne.
    1001995|00000000||What kind of king will Hjalmar be?
@@ -21300,10 +21306,6 @@
    1001983|00000000||To unite all of Skellige's clans. A difficult task, no one has ever managed it, but Cerys is stubborn.
    1001987|00000000||Thinking long-term, then. Think she'll succeed?
    1001989|00000000||She's got a powerful ally. In me.
-   1001919|00000000||Telling you Geralt, since you and Hjalmar defeated the Ice Giant together, I see you as one of our own.
-   1001921|00000000||I got the look of a Skelliger?
-   1001923|00000000||You've got the heart of an an Craite.
-    158974|00000000||Wanted to talk.
     496860|00000000||Quite the spring in your step for a man your age…
     496861|00000000||If you'd seen me in my prime! Thirty miles a day I did in full dress!
     496866|00000000||That witcherin' of yours, that good work?

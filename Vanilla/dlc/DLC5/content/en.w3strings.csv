@@ -1,9 +1,9 @@
 ;meta[language=en]
 ; id      |key(hex)|key(str)| text
-   1087896|fb01ddf1||Nilfgaardian Armor
-   1086353|320650a7||Medium-weight gear. Increases Armor.
-   1087898|61ee70bb||Nilfgaardian Gauntlets
    1087899|40fd76f3||Nilfgaardian Trousers
+   1086353|320650a7||Medium-weight gear. Increases Armor.
+   1087896|fb01ddf1||Nilfgaardian Armor
+   1087898|61ee70bb||Nilfgaardian Gauntlets
    1087897|08761458||Nilfgaardian Boots
    1087902|9d49e633||Nilfgaardian Saddlebags
    1082351|474bf324||Saddlebags allow you to carry more weight.
